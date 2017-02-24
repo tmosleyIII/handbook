@@ -8,7 +8,7 @@ We wanted to put what we've learned into practice, so we decided to write our ow
 
 This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own)
 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
@@ -45,10 +45,11 @@ CEO of Clef
 ## Onboarding Documents
 * [Welcome to Clef](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
 * [Direct Reports](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
-* [Internal Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
+* [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 * [Objectives and Key Results](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 * [One on Ones](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
 * [Product Manifesto](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
+* [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ## Operations Documents
 * [Sourcing Candidates](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
